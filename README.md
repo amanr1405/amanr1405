@@ -65,14 +65,8 @@ Built various apps and tools during hackathons like **Cyberpulse**, **Real Skill
 
 ## 📬 Contact
 
-📧 Email: [amankumar03082003@gmail.com](mailto:amankumar03082003@gmail.com)  
-📱 LinkedIn: [linkedin.com/in/amankumar0308](https://linkedin.com/in/amankumar0308)
-
----
-
-## 🧾 License
-
-This portfolio is open-source and available under the [MIT License](LICENSE).
+📧 Email: [amanraj14.info@gmail.com](mailto:amanraj14.info@gmail.com)  
+📱 LinkedIn: [linkedin.com/in/amanr1405](https://www.linkedin.com/in/amanr1405)
 
 ---
 
