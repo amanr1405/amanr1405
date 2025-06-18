@@ -8,7 +8,7 @@ Visit the live site: [portfolio-aman-seven.vercel.app](https://portfolio-aman-se
 Hi! I’m **Aman**, a passionate Computer Science student and self-driven web developer.  
 I specialize in building responsive, interactive, and accessible web applications using modern technologies.
 
-- 🎓 Pursuing B.Tech in Computer Science
+- 🎓 Pursuing Computer Science
 - 💡 Interested in Full-Stack Development, Hackathons, and UI/UX Design
 - 🛠️ Currently building real-world projects and open-source tools
 
