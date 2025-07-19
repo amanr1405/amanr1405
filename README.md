@@ -20,21 +20,20 @@ I specialize in building responsive, interactive, and accessible web application
 
 ---
 
-## 📁 Featured Projects
+## 🚀 Featured Projects
 
-### 🔹 CRM Task Management System  
-A complete platform for managing tasks and attendance for employees, coordinators, and admins.  
-Tech Stack: PHP, MySQL, HTML, CSS, JS, Bootstrap  
-> [See Project](#)
+### 📌 [Nit Patna CRM Task Management System](https://github.com/amanr1405/chai_pe_code_-ByteVerse-7.0-Hackathon)
+A full-fledged task and attendance management system designed for admins, coordinators, and employees. This platform streamlines internal operations, task assignment, and attendance tracking in an organized dashboard-based interface.
 
-### 🔹 Aparna 2.4 — Python Assistant  
-A productivity-focused desktop assistant that schedules your day, reminds you of tasks, and helps track habits.  
-Tech Stack: Python, Tkinter, JSON  
-> [See Project](#)
+- 🔧 **Tech Stack:** PHP, MySQL, HTML, CSS, JavaScript, Bootstrap
 
-### 🔹 Hackathon Projects  
-Built various apps and tools during hackathons like **Cyberpulse**, **Real Skill Hackathon**, and more.  
-> [See More](#)
+---
+
+### 📌 [Intelligence Cam – IIT Guwahati Hackathon](https://github.com/muskansinghh07/intelligence_cam_ethos_iit_guwahati)
+A Python-based GUI desktop application that provides basic image processing features like sharpening and resizing. Users can choose images, enter custom dimensions, and save the processed output with ease.
+
+- 🔧 **Tech Stack:** Python
+
 
 ---
 
