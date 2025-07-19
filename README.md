@@ -1,8 +1,5 @@
 # 💼 Aman’s Portfolio
 
-Welcome to my personal developer portfolio!  
-Visit the live site: [portfolio-aman-seven.vercel.app](https://portfolio-aman-seven.vercel.app/)
-
 ## 🚀 About Me
 
 Hi! I’m **Aman**, a passionate Computer Science student and self-driven web developer.  
