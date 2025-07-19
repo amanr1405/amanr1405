@@ -36,9 +36,9 @@ A Python-based GUI desktop application that provides basic image processing feat
 
 ## ✨ Highlights
 
-- 🏆 Organizer of **Cyberpulse Hackathon**
-- 🧩 Participant in **Real Skill Hackathon** (IC IIT Patna)
-- 🤝 Volunteered in **Swabhagita NGO**
+- 🏆 **IIT BHU** (Technex TechFest25) Robo-Soccer Winner
+- 🧩 Organizer of **Cyberpulse Hackathon**
+- 🤝 Volunteered in **Swabhagita NGO** & **Real Skill Hackathon** (IC IIT Patna)
 - 🗓️ Contributor to open source and community-driven projects
 
 ---
